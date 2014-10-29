@@ -1,0 +1,17 @@
+{
+    "schema_version": "2.0",
+    "packages": [{
+        "name": "Theme - OddMix",
+        "details": "https://github.com/ericam/OddMix",
+        "homepage": "https://github.com/ericam/OddMix",
+        "author": "Eric M Suzanne",
+        "readme": "https://raw.github.com/ericam/OddMix/master/README.md",
+        "releases": [{
+            "version": "0.1.0",
+            "url": "https://codeload.github.com/ericam/OddMix/zip/0.1.0",
+            "sublime_text": "*",
+            "details": "https://github.com/ericam/OddMix/tags"
+        }],
+
+    }]
+}
