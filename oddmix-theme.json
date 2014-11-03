@@ -2,15 +2,15 @@
     "schema_version": "2.0",
     "packages": [{
         "name": "Theme - OddMix",
-        "details": "https://github.com/ericam/OddMix",
-        "homepage": "https://github.com/ericam/OddMix",
+        "details": "https://github.com/ericam/sublime-oddmix-theme",
+        "homepage": "https://github.com/ericam/sublime-oddmix-theme",
         "author": "Eric M Suzanne",
-        "readme": "https://raw.github.com/ericam/OddMix/master/README.md",
+        "readme": "https://raw.github.com/ericam/sublime-oddmix-theme/master/README.md",
         "releases": [{
             "version": "0.1.0",
-            "url": "https://codeload.github.com/ericam/OddMix/zip/0.1.0",
+            "url": "https://codeload.github.com/ericam/sublime-oddmix-theme/zip/0.1.0",
             "sublime_text": "*",
-            "details": "https://github.com/ericam/OddMix/tags"
+            "details": "https://github.com/ericam/sublime-oddmix-theme/tags"
         }],
 
     }]
