@@ -7,8 +7,8 @@
         "author": "Eric M Suzanne",
         "readme": "https://raw.github.com/ericam/sublime-oddmix-theme/master/README.md",
         "releases": [{
-            "version": "0.1.0",
-            "url": "https://codeload.github.com/ericam/sublime-oddmix-theme/zip/0.1.0",
+            "version": "0.1.1",
+            "url": "https://codeload.github.com/ericam/sublime-oddmix-theme/zip/0.1.1",
             "sublime_text": "*",
             "details": "https://github.com/ericam/sublime-oddmix-theme/tags"
         }],
